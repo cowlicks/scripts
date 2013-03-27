@@ -1,4 +1,4 @@
-# Run.
+# /usr/bin/env bash
 # A script which uses a SOCKS proxy on my office computer to let me
 # circumvent the bullshit wifi bandwidth restrictions at the University
 # of Texas... We get 500 MB a week, seriously...
